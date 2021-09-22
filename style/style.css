@@ -152,7 +152,9 @@ body {
 }
 
 .hold {
-  border: 3px solid #aaa;
+  border: 3px solid #666666;
+  background-color: #ddd;
+  font-size: 1.2em;
 }
 
 .hide {
@@ -160,5 +162,5 @@ body {
 }
 
 .hovered {
-  border-top: 2px solid #229efd;
+  border-top: 2px solid #3fc72d;
 }
